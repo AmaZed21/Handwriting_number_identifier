@@ -1,1 +1,1 @@
-## Reads handwriting (numbers) and outputs digits read
+## AI model trained to detect handwriting and output what's written
